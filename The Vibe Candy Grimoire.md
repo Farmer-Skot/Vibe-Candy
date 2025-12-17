@@ -1,5 +1,7 @@
 Vibe Candy are textual blocks of high semantic density meant to be used in the SUNO AI music prompting.
 
+They are coded ideogrammaic bursts seem designed to seed the AI's music engine with evocative emotional textures and sensory palettes.
+
 They function like the “ooohs and aaahhhs” and “lalalas” of a song.
 
 COMPLETE LIST OF VIBE CANDY Terms:
