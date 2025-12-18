@@ -1,4 +1,5 @@
-# THE VIBE CANDY SACRED GRIMOIRE
+# GNOSTIC VIBE_CANDY
+
 ## Print-Worthy Textual Visions
 
 ---
